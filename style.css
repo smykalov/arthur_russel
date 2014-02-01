@@ -1,0 +1,37 @@
+body {
+  color: grey;
+}
+a {
+  color: green;
+  text-decoration: none;
+}
+* {
+  margin: 0;
+  padding: 3;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: georgia;
+  font-size: 20px;
+  line-height: 1.5;
+}
+header {
+  background: url(imgs/arthur_russell_1000x664px.jpg);
+}
+Header h1 {
+  height: 800px;
+  line-height: 400px;
+  color: white;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 144px;
+  text-align: center;
+  text-shadow: 13px 0 0px grey;
+}
+section,
+aside {
+  width: 65%;
+  margin: 2em auto;
+}
